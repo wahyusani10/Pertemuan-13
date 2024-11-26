@@ -8,5 +8,5 @@ $conn = mysqli_connect($namahost, $username, $password, $database);
 if (!$conn) {
     die("Connection failed: " . mysqli_connect_error());
 }
-echo "terconec";
+echo "tererconect;
 ?>
